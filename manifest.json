@@ -1,0 +1,13 @@
+[
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_MS2109", "name" : "MS2109", "desc" : "Popular and cheap USB2.0 grabber" , "brightness" : 1, "contrast" : 128, "saturation" : 128},
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_MS2130", "name" : "MS2130 (yuv)", "desc" : "Upgrade of the old MS2109. Use it when connected to the USB3.0 port: YUV encoding" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_MS2130_mjpeg", "name" : "MS2130 (mjpeg)", "desc" : "Upgrade of the old MS2109. Use it when connected to the USB2.0 port: MJPEG encoding" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Elgato_HD60X", "name" : "Elgato HD60X" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_AVACCESS_4KVC00", "name" : "AVACCESS 4KVC00" },		
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Ezcap_269", "name" : "Ezcap 269" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Ezcap_320", "name" : "Ezcap 320" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Ezcap_321", "name" : "Ezcap 321" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Ezcap_331", "name" : "Ezcap 331" },
+	{"src" : "https://github.com/awawa-dev/LUT4HDR/raw/master/LUT_Navy_U3", "name" : "Navy U3" }
+]
+
